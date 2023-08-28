@@ -1,4 +1,8 @@
 {
+  "joystream": {
+    "name": "Joystream",
+    "url": "https://metadata.joystream.org/"
+  },
   "novasama": {
     "name": "Novasama",
     "url": "https://metadata.novasama.io/"
